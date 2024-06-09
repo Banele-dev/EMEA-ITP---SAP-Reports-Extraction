@@ -2,6 +2,10 @@
 # Project Title:
 EMEA_ITP_SAP Reports Extraction
 
+# Programming Language and Framework used:
+1. Python - Used for backend development and automation scripts.
+2. Selenuim - Used for browser automation and web scraping.
+
 # Description:
 The current process of data extraction from SAP for the Backlog Management Dashboard in EMEA ITP is impaired by inefficiencies, consuming a significant amount of time ranging from 45 to 60 minutes per day. This prolonged duration not only hampers operational efficiency but also exposes the system to the risk of human errors, undermining the accuracy of the extracted data.
 
